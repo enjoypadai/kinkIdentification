@@ -1,0 +1,144 @@
+{
+  "id": "709893750",
+  "type": "Feature",
+  "bbox": [
+    9.49593,
+    51.32875,
+    9.49688,
+    51.32906
+  ],
+  "properties": {
+    "@ns:com:here:xyz": {
+      "space": "H1SFQLdK",
+      "createdAt": 1585824340023,
+      "updatedAt": 1585824340023,
+      "uuid": "c08fb2b8-35df-4447-8afe-3bab762f39ff",
+      "tags": [
+        "isocc_deu",
+        "fc_5"
+      ]
+    },
+    "speedLimitFrom": 30,
+    "speedCategory": 7,
+    "travelDirection": "BOTH",
+    "@ns:com:here:mom:meta": {
+      "group": "anonymous-app",
+      "owner": "anonymous-user",
+      "createdTS": "2019-03-11T09:13:03.000Z",
+      "modelVersion": "1.6.6.2",
+      "lastUpdatedBy": "RMOB_SYNC",
+      "lastUpdatedTS": "2019-03-11T09:13:03.000Z",
+      "updatedByUser": "anonymous-user",
+      "protectionFlags": []
+    },
+    "isoCountryCode": "DEU",
+    "roads": [
+      {
+        "roadName": {
+          "name": "Tannenheckerweg",
+          "baseName": "Tannenhecker",
+          "isExonym": false,
+          "nameType": "OFFICIAL",
+          "routeType": 0,
+          "streetType": "weg",
+          "roadLinkRef": "115217812",
+          "languageCode": "GER",
+          "precedesBase": false,
+          "attachedToBase": true
+        }
+      }
+    ],
+    "offroadFlags": {
+      "isAlley": false,
+      "isSkiRun": false,
+      "isSkiLift": false,
+      "isBmxTrack": false,
+      "isDriveway": false,
+      "isRaceTrack": false,
+      "isHorseTrail": false,
+      "isBicyclePath": false,
+      "isHikingTrail": false,
+      "isWalkingPath": false,
+      "isOilFieldRoad": false,
+      "isRunningTrack": false,
+      "isGolfCourseTrail": false,
+      "isMountainBikeTrail": false,
+      "isOutdoorActivityRoad": false,
+      "isCrossCountrySkiTrail": false,
+      "isOutdoorActivityAccess": false,
+      "isUndeterminedGeometryType": false,
+      "isPrivateRoadForServiceVehicle": false
+    },
+    "accessCharacteristics": {
+      "bus": true,
+      "auto": true,
+      "taxi": true,
+      "truck": true,
+      "carpool": true,
+      "delivery": true,
+      "motorcycle": true,
+      "pedestrian": true,
+      "throughTraffic": false,
+      "emergencyVehicle": true
+    },
+    "endNodeId": "800531193",
+    "speedLimitTo": 30,
+    "leftAdminId": "20162971",
+    "laneCategory": 1,
+    "startNodeId": "800531192",
+    "rightPostalId": "160274018",
+    "functionalClass": 5,
+    "divider": "N",
+    "numLanes": 0,
+    "@ns:com:here:mom:mapcreator": {
+      "nmc_roadtype": 5
+    },
+    "featureType": "Road",
+    "rightAdminId": "20162971",
+    "category": "Residential",
+    "leftPostalId": "160274018",
+    "roadCharacteristics": {
+      "isRamp": false,
+      "isPaved": true,
+      "isBridge": false,
+      "isTunnel": false,
+      "isTollway": false,
+      "isFrontage": false,
+      "isMotorway": false,
+      "isBoatFerry": false,
+      "isRailFerry": false,
+      "isReversible": false,
+      "isRoundAbout": false,
+      "isCarpoolRoad": false,
+      "isPrivateRoad": false,
+      "isDeliveryRoad": false,
+      "isExpressLanes": false,
+      "isMovableBridge": false,
+      "isPoiAccessRoad": false,
+      "isFourWheelDrive": false,
+      "isParkingLotRoad": false,
+      "isControlledAccess": false,
+      "isPublicAccessRoad": true,
+      "isLimitedAccessRoad": false,
+      "isMultiplyDigitised": false,
+      "isDiminishedPriority": false,
+      "isSpecialTrafficFigure": false
+    },
+    "@ns:com:here:editor": {}
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        9.49593,
+        51.32875,
+        0
+      ],
+      [
+        9.49688,
+        51.32906,
+        0
+      ]
+    ]
+  }
+}

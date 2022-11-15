@@ -1,0 +1,171 @@
+{
+  "id": "757787944",
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        79.14428,
+        21.16352,
+        0
+      ],
+      [
+        79.14371,
+        21.16407,
+        0
+      ],
+      [
+        79.14366,
+        21.16412,
+        0
+      ],
+      [
+        79.14364,
+        21.16419,
+        0
+      ],
+      [
+        79.14367,
+        21.16426,
+        0
+      ],
+      [
+        79.14391,
+        21.1645,
+        0
+      ]
+    ]
+  },
+  "properties": {
+    "roads": [
+      {
+        "roadName": {
+          "name": "Pandit Jawaharlal Nehru Market Road",
+          "baseName": "Pandit Jawaharlal Nehru Market",
+          "isExonym": false,
+          "nameType": "OFFICIAL",
+          "routeType": 0,
+          "streetType": "Road",
+          "roadLinkRef": "493203370",
+          "languageCode": "UKE",
+          "precedesBase": false,
+          "attachedToBase": false
+        }
+      },
+      {
+        "roadName": {
+          "name": "Kalmana Market Road",
+          "baseName": "Kalmana Market",
+          "isExonym": false,
+          "nameType": "OFFICIAL",
+          "routeType": 0,
+          "streetType": "Road",
+          "roadLinkRef": "152608712",
+          "languageCode": "UKE",
+          "precedesBase": false,
+          "attachedToBase": false
+        }
+      }
+    ],
+    "divider": "N",
+    "category": "Residential",
+    "numLanes": 0,
+    "endNodeId": "834291364",
+    "featureType": "Road",
+    "leftAdminId": "28179053",
+    "startNodeId": "834287016",
+    "laneCategory": 1,
+    "leftPostalId": "1292052659",
+    "offroadFlags": {
+      "isAlley": false,
+      "isSkiRun": false,
+      "isSkiLift": false,
+      "isBmxTrack": false,
+      "isDriveway": false,
+      "isRaceTrack": false,
+      "isHorseTrail": false,
+      "isBicyclePath": false,
+      "isHikingTrail": false,
+      "isWalkingPath": false,
+      "isOilFieldRoad": false,
+      "isRunningTrack": false,
+      "isGolfCourseTrail": false,
+      "isMountainBikeTrail": false,
+      "isOutdoorActivityRoad": false,
+      "isCrossCountrySkiTrail": false,
+      "isOutdoorActivityAccess": false,
+      "isUndeterminedGeometryType": false,
+      "isPrivateRoadForServiceVehicle": false
+    },
+    "rightAdminId": "28179053",
+    "speedLimitTo": 0,
+    "rightPostalId": "1292052659",
+    "speedCategory": 7,
+    "isoCountryCode": "IND",
+    "speedLimitFrom": 0,
+    "functionalClass": 5,
+    "travelDirection": "BOTH",
+    "@ns:com:here:xyz": {
+      "tags": [
+        "isocc_ind",
+        "fc_5"
+      ],
+      "uuid": "f49326ba-ee4a-4fcc-9de5-1a6c56d1c26b",
+      "space": "qt2bDpmp",
+      "createdAt": 1584519967892,
+      "updatedAt": 1584519967892
+    },
+    "roadCharacteristics": {
+      "isRamp": false,
+      "isPaved": true,
+      "isBridge": false,
+      "isTunnel": false,
+      "isTollway": false,
+      "isFrontage": false,
+      "isMotorway": false,
+      "isBoatFerry": false,
+      "isRailFerry": false,
+      "isReversible": false,
+      "isRoundAbout": false,
+      "isCarpoolRoad": false,
+      "isPrivateRoad": true,
+      "isDeliveryRoad": false,
+      "isExpressLanes": false,
+      "isMovableBridge": false,
+      "isPoiAccessRoad": false,
+      "isFourWheelDrive": false,
+      "isParkingLotRoad": false,
+      "isControlledAccess": false,
+      "isPublicAccessRoad": true,
+      "isLimitedAccessRoad": false,
+      "isMultiplyDigitised": false,
+      "isDiminishedPriority": false,
+      "isSpecialTrafficFigure": false
+    },
+    "@ns:com:here:mom:meta": {
+      "group": "anonymous-app",
+      "owner": "anonymous-user",
+      "createdTS": "2019-04-04T11:59:15.000Z",
+      "modelVersion": "1.6.6.2",
+      "lastUpdatedBy": "RMOB_SYNC",
+      "lastUpdatedTS": "2019-04-04T11:59:15.000Z",
+      "updatedByUser": "anonymous-user",
+      "protectionFlags": []
+    },
+    "accessCharacteristics": {
+      "bus": true,
+      "auto": true,
+      "taxi": true,
+      "truck": true,
+      "carpool": true,
+      "delivery": true,
+      "motorcycle": true,
+      "pedestrian": true,
+      "throughTraffic": false,
+      "emergencyVehicle": true
+    },
+    "@ns:com:here:mom:mapcreator": {
+      "nmc_roadtype": 5
+    }
+  }
+}

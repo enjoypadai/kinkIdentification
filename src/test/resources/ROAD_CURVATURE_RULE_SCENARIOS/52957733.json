@@ -1,0 +1,227 @@
+{
+  "id": "52957733",
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        8.62729,
+        49.54877,
+        0
+      ],
+      [
+        8.6272,
+        49.54848,
+        0
+      ],
+      [
+        8.62714,
+        49.54834,
+        0
+      ],
+      [
+        8.62706,
+        49.54821,
+        0
+      ],
+      [
+        8.62693,
+        49.5481,
+        0
+      ],
+      [
+        8.62678,
+        49.54802,
+        0
+      ],
+      [
+        8.62659,
+        49.54797,
+        0
+      ],
+      [
+        8.62637,
+        49.54796,
+        0
+      ],
+      [
+        8.62618,
+        49.54799,
+        0
+      ],
+      [
+        8.62599,
+        49.54805,
+        0
+      ],
+      [
+        8.62585,
+        49.54812,
+        0
+      ],
+      [
+        8.62581,
+        49.5482,
+        0
+      ],
+      [
+        8.62576,
+        49.54828,
+        0
+      ],
+      [
+        8.62573,
+        49.54842,
+        0
+      ],
+      [
+        8.62576,
+        49.54856,
+        0
+      ],
+      [
+        8.62585,
+        49.54869,
+        0
+      ],
+      [
+        8.626,
+        49.54879,
+        0
+      ],
+      [
+        8.62618,
+        49.54887,
+        0
+      ],
+      [
+        8.62641,
+        49.54897,
+        0
+      ]
+    ]
+  },
+  "properties": {
+    "roads": [
+      {
+        "roadName": {
+          "name": "Autobahnkreuz Weinheim",
+          "baseName": "Weinheim",
+          "isExonym": false,
+          "nameType": "OFFICIAL",
+          "routeType": 0,
+          "streetType": "Autobahnkreuz",
+          "roadLinkRef": "38226690",
+          "languageCode": "GER",
+          "precedesBase": true,
+          "attachedToBase": false
+        }
+      }
+    ],
+    "divider": "N",
+    "category": "Motorway",
+    "numLanes": 1,
+    "endNodeId": "58115451",
+    "featureType": "Road",
+    "leftAdminId": "20173925",
+    "startNodeId": "58115459",
+    "laneCategory": 1,
+    "leftPostalId": "160274688",
+    "offroadFlags": {
+      "isAlley": false,
+      "isSkiRun": false,
+      "isSkiLift": false,
+      "isBmxTrack": false,
+      "isDriveway": false,
+      "isRaceTrack": false,
+      "isHorseTrail": false,
+      "isBicyclePath": false,
+      "isHikingTrail": false,
+      "isWalkingPath": false,
+      "isOilFieldRoad": false,
+      "isRunningTrack": false,
+      "isGolfCourseTrail": false,
+      "isMountainBikeTrail": false,
+      "isOutdoorActivityRoad": false,
+      "isCrossCountrySkiTrail": false,
+      "isOutdoorActivityAccess": false,
+      "isUndeterminedGeometryType": false,
+      "isPrivateRoadForServiceVehicle": false
+    },
+    "rightAdminId": "20173925",
+    "speedLimitTo": 0,
+    "rightPostalId": "160274688",
+    "speedCategory": 4,
+    "isoCountryCode": "DEU",
+    "speedLimitFrom": 999,
+    "functionalClass": 1,
+    "travelDirection": "FROM",
+    "@ns:com:here:xyz": {
+      "tags": [
+        "isocc_deu",
+        "fc_1"
+      ],
+      "uuid": "a20ed74c-2db7-4fbe-b8c9-0fd584db0536",
+      "space": "qt2bDpmp",
+      "createdAt": 1584516656034,
+      "updatedAt": 1584516656034
+    },
+    "roadCharacteristics": {
+      "isRamp": true,
+      "isPaved": true,
+      "isBridge": false,
+      "isTunnel": false,
+      "isTollway": false,
+      "isFrontage": false,
+      "isMotorway": true,
+      "isBoatFerry": false,
+      "isRailFerry": false,
+      "isReversible": false,
+      "isRoundAbout": false,
+      "isCarpoolRoad": false,
+      "isPrivateRoad": false,
+      "isDeliveryRoad": false,
+      "isExpressLanes": false,
+      "isMovableBridge": false,
+      "isPoiAccessRoad": false,
+      "isFourWheelDrive": false,
+      "isParkingLotRoad": false,
+      "isControlledAccess": true,
+      "isPublicAccessRoad": true,
+      "isLimitedAccessRoad": true,
+      "isMultiplyDigitised": false,
+      "isDiminishedPriority": false,
+      "isSpecialTrafficFigure": false
+    },
+    "@ns:com:here:mom:meta": {
+      "group": "anonymous-app",
+      "owner": "anonymous-user",
+      "createdTS": "2019-06-11T17:30:06.000Z",
+      "modelVersion": "1.6.6.2",
+      "lastUpdatedBy": "RMOB_SYNC",
+      "lastUpdatedTS": "2019-06-11T17:30:06.000Z",
+      "updatedByUser": "anonymous-user",
+      "protectionFlags": [
+        "ADAS",
+        "COMPOSITE_OBJECT",
+        "COMPOSITE_3D_JUNCTION",
+        "COMPOSITE_EXTENDED_LANE"
+      ]
+    },
+    "accessCharacteristics": {
+      "bus": true,
+      "auto": true,
+      "taxi": true,
+      "truck": true,
+      "carpool": true,
+      "delivery": true,
+      "motorcycle": true,
+      "pedestrian": false,
+      "throughTraffic": true,
+      "emergencyVehicle": true
+    },
+    "@ns:com:here:mom:mapcreator": {
+      "nmc_roadtype": 1
+    }
+  }
+}

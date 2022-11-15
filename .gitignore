@@ -1,0 +1,8 @@
+/target/
+/.settings/*
+/.classpath
+/.project
+/mom-crossval.iml
+/.idea/
+.idea/.gitignore
+mom-crossval.iml

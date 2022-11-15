@@ -1,0 +1,148 @@
+{
+  "id": "1114822992",
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        100.3074,
+        5.38022,
+        0
+      ],
+      [
+        100.30751,
+        5.38021,
+        0
+      ],
+      [
+        100.30758,
+        5.38023,
+        0
+      ],
+      [
+        100.3076,
+        5.3803,
+        0
+      ],
+      [
+        100.3076,
+        5.38038,
+        0
+      ]
+    ]
+  },
+  "properties": {
+    "roads": [],
+    "zLevel": [
+      [
+        2,
+        1
+      ]
+    ],
+    "divider": "N",
+    "category": "Local Access",
+    "numLanes": 1,
+    "endNodeId": "1091190715",
+    "featureType": "Road",
+    "leftAdminId": "23377932",
+    "startNodeId": "1091190716",
+    "laneCategory": 1,
+    "leftPostalId": "1230367934",
+    "offroadFlags": {
+      "isAlley": false,
+      "isSkiRun": false,
+      "isSkiLift": false,
+      "isBmxTrack": false,
+      "isDriveway": false,
+      "isRaceTrack": false,
+      "isHorseTrail": false,
+      "isBicyclePath": false,
+      "isHikingTrail": false,
+      "isWalkingPath": false,
+      "isOilFieldRoad": false,
+      "isRunningTrack": false,
+      "isGolfCourseTrail": false,
+      "isMountainBikeTrail": false,
+      "isOutdoorActivityRoad": false,
+      "isCrossCountrySkiTrail": false,
+      "isOutdoorActivityAccess": false,
+      "isUndeterminedGeometryType": false,
+      "isPrivateRoadForServiceVehicle": false
+    },
+    "rightAdminId": "23377932",
+    "speedLimitTo": 80,
+    "rightPostalId": "1230367934",
+    "speedCategory": 5,
+    "isoCountryCode": "MYS",
+    "speedLimitFrom": 0,
+    "functionalClass": 3,
+    "travelDirection": "TO",
+    "@ns:com:here:xyz": {
+      "tags": [
+        "isocc_mys",
+        "fc_3"
+      ],
+      "uuid": "87249d0f-f106-4fd5-9cb0-14d485b7d3d0",
+      "space": "qt2bDpmp",
+      "createdAt": 1584984083829,
+      "updatedAt": 1584984083829
+    },
+    "roadCharacteristics": {
+      "isRamp": true,
+      "isPaved": true,
+      "isBridge": false,
+      "isTunnel": false,
+      "isTollway": false,
+      "isFrontage": false,
+      "isMotorway": false,
+      "isBoatFerry": false,
+      "isRailFerry": false,
+      "isReversible": false,
+      "isRoundAbout": false,
+      "isCarpoolRoad": false,
+      "isPrivateRoad": false,
+      "isDeliveryRoad": false,
+      "isExpressLanes": false,
+      "isMovableBridge": false,
+      "isPoiAccessRoad": false,
+      "isFourWheelDrive": false,
+      "isParkingLotRoad": false,
+      "isControlledAccess": false,
+      "isPublicAccessRoad": true,
+      "isLimitedAccessRoad": false,
+      "isMultiplyDigitised": false,
+      "isDiminishedPriority": false,
+      "isSpecialTrafficFigure": false
+    },
+    "intersectionCategory": "MANOEUVRE_LINK",
+    "@ns:com:here:mom:meta": {
+      "group": "anonymous-app",
+      "owner": "anonymous-user",
+      "createdTS": "2019-09-26T04:30:15.000Z",
+      "modelVersion": "1.6.6.2",
+      "lastUpdatedBy": "RMOB_SYNC",
+      "lastUpdatedTS": "2019-09-26T04:30:15.000Z",
+      "updatedByUser": "anonymous-user",
+      "protectionFlags": [
+        "ADAS",
+        "COMPOSITE_OBJECT",
+        "COMPOSITE_EXTENDED_LANE"
+      ]
+    },
+    "accessCharacteristics": {
+      "bus": true,
+      "auto": true,
+      "taxi": true,
+      "truck": true,
+      "carpool": true,
+      "delivery": true,
+      "motorcycle": true,
+      "pedestrian": false,
+      "throughTraffic": true,
+      "emergencyVehicle": true
+    },
+    "@ns:com:here:mom:mapcreator": {
+      "nmc_roadtype": 3
+    }
+  }
+}

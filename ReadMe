@@ -1,0 +1,11 @@
+This project provide the smothening of curve using customize  spline technique,
+to run only spline,
+use t.json from resource file and run TrySpline.java class
+java -version 11
+
+for reference we can check before and after changes when spline is used to smooth the kink
+
+
+for kink identification please run myTest.java in test folder
+
+we do have some road samples downloaded from here maps and put in resource file for testing.

@@ -1,0 +1,286 @@
+{
+  "type": "Feature",
+  "id": "756q9wpy-8c42347f092c08862f6e3c9285fd81e8",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -45.96796,
+        -22.64818
+      ],
+      [
+        -45.96792,
+        -22.64799
+      ],
+      [
+        -45.96789,
+        -22.64761
+      ],
+      [
+        -45.96761,
+        -22.64709
+      ],
+      [
+        -45.96757,
+        -22.64692
+      ],
+      [
+        -45.96756,
+        -22.64673
+      ],
+      [
+        -45.96746,
+        -22.64657
+      ],
+      [
+        -45.96722,
+        -22.64642
+      ],
+      [
+        -45.96716,
+        -22.6463
+      ],
+      [
+        -45.96716,
+        -22.64614
+      ],
+      [
+        -45.96726,
+        -22.64605
+      ],
+      [
+        -45.96757,
+        -22.64609
+      ],
+      [
+        -45.96775,
+        -22.64606
+      ],
+      [
+        -45.96794,
+        -22.64607
+      ],
+      [
+        -45.96815,
+        -22.64623
+      ]
+    ]
+  },
+  "properties": {
+    "featureType": "Road",
+    "isoCountryCode": "AUS",
+    "category": "Local Access",
+    "@ns:com:here:mom:meta": {
+      "hashPayload": "01a33badaec04a93064c3c1ea5ec5b5a2cd8e640",
+      "createdTS": "2018-02-27T21:06:55.789Z",
+      "lastUpdatedTS": "2018-09-28T21:18:04.234Z",
+      "lastUpdatedBy": "account_identifier",
+      "modelVersion": "1.6.0",
+      "protectionFlags": [
+        "ADAS",
+        "COMPOSITE_3D_JUNCTION"
+      ],
+      "layerId": "HERE-XYZ-BASE"
+    },
+    "@ns:com:here:xyz": {
+      "tags": [
+        "isocc_AUS"
+      ],
+      "space": "cmcs-osm-world13-road",
+      "createdAt": 1539286189687,
+      "updatedAt": 1539286189687
+    },
+    "zLevel": [
+      [
+        0,
+        -1
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        11,
+        2
+      ]
+    ],
+    "stroke-width":"10",
+    "stroke": "blue",
+    "startNodeId": "602394742",
+    "endNodeId": "602394713",
+    "leftAdminId": "189974023",
+    "rightAdminId": "189974023",
+    "leftPostalId": "190672151",
+    "rightPostalId": "190672151",
+    "functionalClass": 5,
+    "travelDirection": "BOTH",
+    "speedCategory": 3,
+    "speedLimitFrom": 50,
+    "speedLimitTo": 60,
+    "divider": "A",
+    "isLegalDivider": false,
+    "accessCharacteristics": {
+      "carpool": false,
+      "truck": true,
+      "bicycle": true
+    },
+    "roadCharacteristics": {
+      "isScenic": false,
+      "isRamp": false,
+      "isControlledAccess": true,
+      "isBridge": true,
+      "isMultiplyDigitised": true,
+      "isTollway": true,
+      "isTransPortVerified": false
+    },
+    "offroadFlags": {
+      "isRaceTrack": true,
+      "isUndeterminedGeometryType": true,
+      "isDriveway": true,
+      "isAlley": false,
+      "isBicyclePath": false,
+      "isWalkingPath": true,
+      "isPrivateRoadForServiceVehicle": true,
+      "isMountainBikeTrail": true,
+      "isHikingTrail": true,
+      "isCrossCountrySkiTrail": true,
+      "isGolfCourseTrail": false,
+      "isSkiRun": false,
+      "isSkiLift": false,
+      "isRunningTrack": false,
+      "isBmxTrack": false,
+      "isHorseTrail": false,
+      "isOutdoorActivityRoad": false,
+      "isOutdoorActivityAccess": false,
+      "isOilFieldRoad": true
+    },
+    "laneCategory": 2,
+    "roads": [
+      {
+        "roadName": {
+          "roadLinkRef": "111507197",
+          "name": "Asshole",
+          "nameType": "OFFICIAL",
+          "formattedName": "Přešovice",
+          "isExonym": false,
+          "routeType": 0,
+          "languageCode": "CZE",
+          "baseName": "Přešovice",
+          "streetType": "",
+          "precedesBase": false,
+          "attachedToBase": false,
+          "transliterations": [
+            {
+              "name": "Presovice",
+              "languageCode": "CZX",
+              "streetType": "",
+              "precedesBase": false,
+              "attachedToBase": false
+            }
+          ]
+        },
+        "addressRanges": [
+          {
+            "format": "A",
+            "type": "BASE",
+            "leftRange": [
+              "2998",
+              "2930"
+            ],
+            "rightRange": [
+              "2999",
+              "2931"
+            ],
+            "leftScheme": "EVEN",
+            "rightScheme": "ODD"
+          }
+        ]
+      }
+    ],
+    "conditionalAttributes": [
+      {
+        "attributeType": "DIRECTION_OF_TRAVEL",
+        "travelFlow": "BOTH",
+        "isVariable": true,
+        "constraints": [
+          {
+            "vehicleTypes": {
+              "auto": true,
+              "taxi": true,
+              "bus": true,
+              "carpool": true,
+              "pedestrian": true,
+              "truck": true,
+              "throughTraffic": true,
+              "emergencyVehicle": true,
+              "delivery": true,
+              "motorcycle": true
+            },
+            "timeDependencies": [
+              {
+                "tcType": "recurring",
+                "timeWindows": [
+                  {
+                    "start": "00:00",
+                    "end": "24:00"
+                  }
+                ]
+              },
+              {
+                "tcType": "dateWindow",
+                "startDate": [
+                  2018,
+                  8,
+                  10
+                ],
+                "endDate": [
+                  2019,
+                  8,
+                  10
+                ],
+                "timeWindow": [
+                  {
+                    "start": "08:00",
+                    "end": "13:00"
+                  },
+                  {
+                    "start": "15:00",
+                    "end": "21:00",
+                    "exceptions": [
+                      {
+                        "tcType": "datePattern",
+                        "daysOfWeek": [
+                          "MON"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "vehicleLimits": [
+              {
+                "dimension": "NUMBER_OF_AXLES",
+                "value": 4,
+                "operator": "EQUAL_OR_GREATER"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "@ns:com:here:mom:mapcreator": {
+      "nmc_roadtype": 1,
+      "nmc": 0
+    },
+    "@ns:com:here:mom:rmob": {
+      "lastChangeId": 3067669,
+      "validUnnamed": "N",
+      "borderNodes": [
+        0,
+        "N"
+      ],
+      "inProcessData": true
+    }
+  }
+}
